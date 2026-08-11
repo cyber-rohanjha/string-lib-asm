@@ -6,7 +6,7 @@ A low-level string library written in x86-64 NASM assembly, implementing common 
 
 ## Motivation
 
-A continuation of the ==x86-64 Assembly Math Library== this project implements standard string operations at the hardware level — no libc, no compiler abstractions, just raw SSE instructions and registers.
+A continuation of the <mark>x86-64 Assembly Math Library</mark> this project implements standard string operations at the hardware level — no libc, no compiler abstractions, just raw SSE instructions and registers.
 
 ---
 
